@@ -1,0 +1,8 @@
+slackclient
+slacker
+Flask
+flask-restful
+pymongo
+requests
+beautifulsoup4
+jieba

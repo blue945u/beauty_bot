@@ -1,2 +1,14 @@
-# beauty_bot
-2017.09.09 PIXNET Chatbot Hackathon: Developed a makeups recommending chatbot, helped saving data to in MongoBD and built Slack chatbot
+# beauty-bot
+
+## Installation
+```
+pip3 install -r requirement.txt
+```
+
+## Usage
+```
+python3 slack.py
+```
+
+## slack API
+1. [message api](https://api.slack.com/docs/message-buttons)
